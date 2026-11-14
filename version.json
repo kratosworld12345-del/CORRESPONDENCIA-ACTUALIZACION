@@ -1,0 +1,10 @@
+{
+  "version": "3.3.0",
+  "version_minima": "3.3.0",
+  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.3.0/ExportadorIFI_Setup.exe",
+  "sha256": "568600c0a166921ad02f7a8b9f55dfe355e5a8bfad971e878646bc8dc13f8679",
+  "tamano": 43694437,
+  "novedades": [
+    "El programa se actualiza solo: avisa cuando hay una versión nueva y la instala con un clic."
+  ]
+}
