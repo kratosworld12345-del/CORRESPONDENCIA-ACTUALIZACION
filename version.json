@@ -1,12 +1,10 @@
 {
-  "version": "3.4.0",
+  "version": "3.4.1",
   "version_minima": "3.3.0",
-  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.4.0/ExportadorIFI_Setup.exe",
-  "sha256": "a0bf3a243009b745c2e7eb4c4c4555e7c8aaba983375c250cc06b9bf308671be",
-  "tamano": 43702939,
+  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.4.1/ExportadorIFI_Setup.exe",
+  "sha256": "9a32a702bff5a5c95a938df516626350cbb04d73022148ef8a9279df5af7bd30",
+  "tamano": 43701380,
   "novedades": [
-    "Al unir varios documentos en un solo Word, cada uno conserva su encabezado y pie de página.",
-    "Nueva opción por modelo «Completar hasta un número par de páginas» para imprimir a doble cara: agrega hojas totalmente en blanco, sin encabezado ni pie.",
-    "En el Word unido, Word agrega o quita esas hojas en blanco solo si luego se edita el texto."
+    "Corregido: si se minimizaba el programa con la ventana «Resultado de la generación» abierta, al hacer clic en la barra de tareas ya no volvía a abrirse."
   ]
 }
