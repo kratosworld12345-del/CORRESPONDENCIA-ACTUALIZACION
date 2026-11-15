@@ -1,10 +1,10 @@
 {
-  "version": "3.4.1",
+  "version": "3.4.2",
   "version_minima": "3.3.0",
-  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.4.1/ExportadorIFI_Setup.exe",
-  "sha256": "9a32a702bff5a5c95a938df516626350cbb04d73022148ef8a9279df5af7bd30",
-  "tamano": 43701380,
+  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.4.2/ExportadorIFI_Setup.exe",
+  "sha256": "d81bb4b606d1c8aec2649e67aed0a32bdaba84307fa1ed17d686a3cf1e70e99d",
+  "tamano": 43704853,
   "novedades": [
-    "Corregido: si se minimizaba el programa con la ventana «Resultado de la generación» abierta, al hacer clic en la barra de tareas ya no volvía a abrirse."
+    "Al unir en un solo Word con «Completar hasta un número par de páginas», el documento completo termina en página par: si hace falta se agrega una hoja en blanco al final, para imprimir varios juegos seguidos a doble cara."
   ]
 }
