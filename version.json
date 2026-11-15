@@ -1,10 +1,12 @@
 {
-  "version": "3.3.0",
+  "version": "3.4.0",
   "version_minima": "3.3.0",
-  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.3.0/ExportadorIFI_Setup.exe",
-  "sha256": "568600c0a166921ad02f7a8b9f55dfe355e5a8bfad971e878646bc8dc13f8679",
-  "tamano": 43694437,
+  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.4.0/ExportadorIFI_Setup.exe",
+  "sha256": "a0bf3a243009b745c2e7eb4c4c4555e7c8aaba983375c250cc06b9bf308671be",
+  "tamano": 43702939,
   "novedades": [
-    "El programa se actualiza solo: avisa cuando hay una versión nueva y la instala con un clic."
+    "Al unir varios documentos en un solo Word, cada uno conserva su encabezado y pie de página.",
+    "Nueva opción por modelo «Completar hasta un número par de páginas» para imprimir a doble cara: agrega hojas totalmente en blanco, sin encabezado ni pie.",
+    "En el Word unido, Word agrega o quita esas hojas en blanco solo si luego se edita el texto."
   ]
 }
