@@ -1,10 +1,16 @@
 {
-  "version": "3.4.2",
+  "version": "3.5.0",
   "version_minima": "3.3.0",
-  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.4.2/ExportadorIFI_Setup.exe",
-  "sha256": "d81bb4b606d1c8aec2649e67aed0a32bdaba84307fa1ed17d686a3cf1e70e99d",
-  "tamano": 43704853,
+  "instalador": "https://github.com/kratosworld12345-del/CORRESPONDENCIA-ACTUALIZACION/releases/download/v3.5.0/ExportadorIFI_Setup.exe",
+  "sha256": "518cbc2d466bb426028bc4749b70734565e1ddd89e0726c75803891574bf8617",
+  "tamano": 43712373,
   "novedades": [
-    "Al unir en un solo Word con «Completar hasta un número par de páginas», el documento completo termina en página par: si hace falta se agrega una hoja en blanco al final, para imprimir varios juegos seguidos a doble cara."
+    "«Completar hasta un número par de páginas»: al unir en un solo Word, las hojas en blanco ahora se ven en Word: cada IFI que termina en página impar lleva su hoja en blanco, sin encabezado ni pie. Así ve en pantalla lo mismo que sale al imprimir a doble cara.",
+    "Si la última hoja de un IFI tiene una sola línea, también se le agrega una hoja en blanco y se avisa, para que suba esa línea a la hoja anterior y ahorre papel.",
+    "No borre las hojas en blanco: se reacomodan solas. Para subir una línea, borre los renglones vacíos que están antes.",
+    "Cuidado: no pulse «Supr» al final de la última línea de un IFI ni «Retroceso» al inicio de una hoja en blanco. Eso borra el salto entre los dos y el IFI pierde su encabezado. Si pasa, pulse Ctrl+Z.",
+    "Las hojas en blanco visibles necesitan Microsoft Word. Sin Word no se agregan, pero el Word unido igual se imprime bien a doble cara.",
+    "El Word unido completo sigue terminando en página par (para imprimir varios juegos seguidos a doble cara): si el último IFI no usa «número par» y el total queda impar, se agrega una hoja en blanco al final.",
+    "Al unir en un solo Word con «número par», guardar tarda unos 2 segundos por IFI (Word mide cada documento para poner las hojas en blanco). Con muchos IFIs puede tardar unos minutos: la barra muestra «IFI 5 de 100», no está colgado."
   ]
 }
